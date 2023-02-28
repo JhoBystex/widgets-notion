@@ -1,4 +1,4 @@
-[Profile JB](https://pbs.twimg.com/profile_images/1612470703990738944/3B71kYyB_400x400.jpg)
+[![Profile JB](https://pbs.twimg.com/profile_images/1612470703990738944/3B71kYyB_400x400.jpg)]
 # Descripción
 Widgets for Notion by JhoBystex
 
