@@ -22,14 +22,14 @@ https://jhobystex.github.io/widgets-notion/precios-listados.html
 
 # Links de utilidad:
 
-[Widget Cabecera Criptos Tiempo Real:](https://coinmarketcap.com/widget/price-marquee/)
+[Widget Cabecera Criptos Tiempo Real](https://coinmarketcap.com/widget/price-marquee/)
 
-[Repositorio GitHub con TODOS los widgets:](https://github.com/JhoBystex/widgets-notion)
+[Repositorio GitHub con TODOS los widgets](https://github.com/JhoBystex/widgets-notion)
 
-[API CoinMarketCap:](https://pro.coinmarketcap.com/account)
+[API CoinMarketCap](https://pro.coinmarketcap.com/account)
 
-[TradingView Widgets:](https://www.tradingview.com/widget/)
+[TradingView Widgets](https://www.tradingview.com/widget/)
 
-[Make (Enlazar APIs):](https://www.make.com)
+[Make (Enlazar APIs)](https://www.make.com)
 
-[Curso básico de Make:](https://www.youtube.com/playlist?list=PLiui5Y0bujgjw2FZVv8VJ_B1Ruek13385)
+[Curso básico de Make](https://www.youtube.com/playlist?list=PLiui5Y0bujgjw2FZVv8VJ_B1Ruek13385)
