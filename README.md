@@ -1,4 +1,4 @@
-![Profile JB](https://pbs.twimg.com/profile_images/1612470703990738944/3B71kYyB_400x400.jpg](https://i.ibb.co/3vqdw8g/Crypto-Punk-lloro50.png)
+[![Profile JB](https://pbs.twimg.com/profile_images/1612470703990738944/3B71kYyB_400x400.jpg](https://i.ibb.co/3vqdw8g/Crypto-Punk-lloro50.png)]
 # Descripción
 Widgets for Notion by JhoBystex
 
